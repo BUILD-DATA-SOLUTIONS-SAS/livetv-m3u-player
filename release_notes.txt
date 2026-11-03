@@ -1,0 +1,6 @@
+Welcome to Live TV: M3U Player 1.0!
+- Add playlists from a URL, file, device storage or provider presets
+- Manage multiple playlists and rename channels
+- Watch live TV and video with a smooth full-screen player
+- Favorites, recent history and channel search
+- Choose your language and text size

@@ -1,0 +1,43 @@
+Live TV: M3U Player is a clean, fast M3U and IPTV playlist player for Android. Bring your own playlist, add it in a few taps, and start watching live TV, video and audio streams in one tidy place.
+
+IMPORTANT NOTICE
+This app does not provide, host, or distribute any media content. There are no channels, playlists, movies, shows or streams included in the app. All content comes from playlists and sources that you add yourself, and you are responsible for using only content you own or have the legal right to access. Live TV: M3U Player is not affiliated with, endorsed by, or sponsored by any TV channel, broadcaster, content owner or playlist provider. Contains ads.
+
+ADD YOUR PLAYLIST YOUR WAY
+- Paste an M3U or M3U8 playlist URL
+- Upload a playlist file
+- Load a playlist from your device storage
+- Use provider presets as quick shortcuts to third-party public playlist sources (not operated or endorsed by us)
+
+MANAGE ALL YOUR PLAYLISTS
+- Keep multiple playlists and give each one your own name
+- Switch between All, URL and File playlists with simple tabs
+- Rename or delete playlists and channels whenever you like
+- Open the channel menu to play, favorite, rename, delete or see channel info
+
+WATCH WITH A SMOOTH PLAYER
+- Built on a modern media engine for reliable playback
+- Supports popular streaming and file formats, including HLS, MP4, MKV, AVI, MOV, AAC, MP3 and FLAC
+- Simple on-screen controls and full-screen viewing
+- Dark, easy-on-the-eyes design made for media
+
+FIND WHAT YOU WANT FAST
+- Favorites: tap the heart to keep your go-to channels one tap away
+- Recent history: jump back to what you watched last
+- Search: look up channels by name across your playlists
+
+MADE SIMPLE
+- No account and no sign-up. Open the app and start adding your playlist
+- Choose your app language and text size in Settings
+- Your playlists, favorites and history are stored on your device
+
+HOW IT WORKS
+1. Tap Add Playlist and read the short notice
+2. Add a playlist from a URL, file, device storage or a provider preset
+3. Pick a channel and press play
+
+Live TV: M3U Player is free to use and supported by ads. Whether a stream plays depends on your playlist and the availability of its source. The app is a player only and cannot guarantee that any third-party stream is online or legal in your region.
+
+Privacy Policy: https://build-data-solutions-sas.github.io/livetv-m3u-player/privacy-policy/
+Terms of Use: https://build-data-solutions-sas.github.io/livetv-m3u-player/terms-of-use/
+Support: chandlerpiper499410@gmail.com

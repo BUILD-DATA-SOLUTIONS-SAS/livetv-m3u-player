@@ -1,0 +1,1 @@
+M3U & IPTV playlist player: add your own playlist by URL or file and watch
