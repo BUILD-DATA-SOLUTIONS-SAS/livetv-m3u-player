@@ -6,23 +6,23 @@
 <title>ASO Assets — Live TV: M3U Player (05j)</title>
 <style>
 :root {
-  --bg: #060810;
-  --card: #0B0E14;
-  --border: rgba(43,217,255,.18);
-  --text: #E8ECF2;
-  --sub: #8090A8;
-  --accent: #2BD9FF;
-  --link: #5AE4FF;
-  --green: #34D399;
-  --red: #FF5A5F;
+  --bg: #F0F4F8;
+  --card: #FFFFFF;
+  --border: rgba(0,122,150,.15);
+  --text: #0E1420;
+  --sub: #55607A;
+  --accent: #007A96;
+  --link: #007A96;
+  --green: #1A8D6E;
+  --red: #D92D3A;
   --radius: 12px;
 }
 * { box-sizing: border-box; margin: 0; padding: 0; }
 body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; background: var(--bg); color: var(--text); padding: 24px 16px; max-width: 860px; margin: 0 auto; line-height: 1.5; }
 h1 { font-size: 1.5rem; margin-bottom: 4px; }
 .sub { color: var(--sub); font-size: .85rem; margin-bottom: 28px; }
-.sub code { background: rgba(43,217,255,.15); padding: 2px 6px; border-radius: 4px; font-size: .8rem; }
-section { background: var(--card); border: 1px solid var(--border); border-radius: var(--radius); padding: 20px; margin-bottom: 16px; }
+.sub code { background: rgba(0,122,150,.10); padding: 2px 6px; border-radius: 4px; font-size: .8rem; }
+section { background: var(--card); border: 1px solid var(--border); border-radius: var(--radius); padding: 20px; margin-bottom: 16px; box-shadow: 0 1px 4px rgba(0,0,0,.06); }
 section h2 { font-size: 1.05rem; color: var(--accent); margin-bottom: 14px; display: flex; align-items: center; gap: 8px; }
 table { width: 100%; border-collapse: collapse; }
 td { padding: 7px 0; vertical-align: top; border-bottom: 1px solid var(--border); }
@@ -32,21 +32,21 @@ tr:last-child td { border-bottom: none; }
 a { color: var(--link); text-decoration: none; }
 a:hover { text-decoration: underline; }
 .badge { display: inline-block; font-size: .7rem; padding: 2px 7px; border-radius: 6px; font-weight: 600; vertical-align: middle; margin-left: 6px; }
-.live { background: rgba(52,211,153,.15); color: var(--green); }
-.file { background: rgba(43,217,255,.12); color: var(--sub); }
-.vid { background: rgba(43,217,255,.12); color: var(--link); }
-.none { background: rgba(128,144,168,.12); color: var(--sub); }
+.live { background: rgba(26,141,110,.12); color: var(--green); }
+.file { background: rgba(0,122,150,.08); color: var(--sub); }
+.vid { background: rgba(0,122,150,.08); color: var(--link); }
+.none { background: rgba(85,96,122,.08); color: var(--sub); }
 .preview { display: inline-block; max-width: 48px; max-height: 48px; border-radius: 6px; vertical-align: middle; margin-right: 8px; }
 @media(max-width:600px) { td:first-child { width: 120px; } .preview { max-width: 36px; max-height: 36px; } }
 </style>
 </head>
 <body>
 
-<h1>📦 ASO Assets — Live TV: M3U Player</h1>
+<h1>ASO Assets — Live TV: M3U Player</h1>
 <p class="sub">App <code>05j</code> · Store <code>a020</code> BUILD DATA SOLUTIONS SAS · Package <code>com.m3uplay.livetv.player</code></p>
 
 <section>
-<h2>📋 Hướng dẫn Submit</h2>
+<h2>Hướng dẫn Submit</h2>
 <table>
 <tr><td>ASO Guide</td><td><a href="aso-guide.md">aso-guide.md</a> <span class="badge file">MD</span></td></tr>
 <tr><td>Landing Page</td><td><a href="landing.html">landing.html</a> <span class="badge file">HTML</span></td></tr>
@@ -54,7 +54,7 @@ a:hover { text-decoration: underline; }
 </section>
 
 <section>
-<h2>⚖️ Legal <span class="badge live">LIVE</span></h2>
+<h2>Legal <span class="badge live">LIVE</span></h2>
 <table>
 <tr><td>Privacy Policy</td><td><a href="privacy-policy/">privacy-policy/</a></td></tr>
 <tr><td>Terms of Use</td><td><a href="terms-of-use/">terms-of-use/</a></td></tr>
@@ -62,14 +62,14 @@ a:hover { text-decoration: underline; }
 </section>
 
 <section>
-<h2>🎬 Video xin quyền <span class="badge none">KHÔNG CẦN</span></h2>
+<h2>Video xin quyền <span class="badge none">KHÔNG CẦN</span></h2>
 <table>
 <tr><td colspan="2" style="color:var(--sub);font-size:.85rem;">App không sử dụng permission nhạy cảm — không cần quay video demo cho Play Console.</td></tr>
 </table>
 </section>
 
 <section>
-<h2>🖼️ Asset thị giác</h2>
+<h2>Asset thị giác</h2>
 <table>
 <tr><td>Icon 512×512</td><td><img src="icon_512.png" class="preview" alt="icon"> <a href="icon_512.png">icon_512.png</a></td></tr>
 <tr><td>Feature Graphic 1024×500</td><td><a href="feature_graphic.png">feature_graphic.png</a> <span class="badge file">1.1 MB</span></td></tr>
@@ -82,7 +82,7 @@ a:hover { text-decoration: underline; }
 </section>
 
 <section>
-<h2>📝 Metadata</h2>
+<h2>Metadata</h2>
 <table>
 <tr><td>Title (19/30)</td><td><a href="title.txt">title.txt</a></td></tr>
 <tr><td>Short description (74/80)</td><td><a href="short_description.txt">short_description.txt</a></td></tr>
@@ -92,7 +92,7 @@ a:hover { text-decoration: underline; }
 </section>
 
 <section>
-<h2>🔒 Data Safety & Permissions</h2>
+<h2>Data Safety & Permissions</h2>
 <table>
 <tr><td>Data Safety CSV</td><td><a href="data_safety.csv">data_safety.csv</a> <span class="badge file">Import Play Console</span></td></tr>
 <tr><td>Data Safety (giải thích)</td><td><a href="data_safety.md">data_safety.md</a></td></tr>
@@ -100,8 +100,8 @@ a:hover { text-decoration: underline; }
 </table>
 </section>
 
-<section style="background:transparent;border:none;padding:10px 0;text-align:center;">
-<p style="color:var(--sub);font-size:.75rem;">App-Factory · ASO run #500 · 2026-11-03</p>
+<section style="background:transparent;border:none;box-shadow:none;padding:10px 0;text-align:center;">
+<p style="color:var(--sub);font-size:.75rem;">App-Factory · ASO run #500 · Updated 2026-11-05</p>
 </section>
 
 </body>
